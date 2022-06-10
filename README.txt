@@ -104,3 +104,4 @@ Para criar um repositório no GitHub entrar nas opções de perfil > Your Reposi
 
 Será possível ver o link https da página do repositório, copiar e colar junto com o comando git remote add origin (git remote add origin https://github.com/Pereirator/Livro-de-receitas.git), sendo que o origin é um apelido usado para abreviar o endereço da página, dessa forma não será necessário colar no próximo comando. Para fazer o envio, empurrar as alterações para o repositório remoto (GitHub), o comando é: git push origin master
 
+Este parágrafo foi criado especificamente para gerar um segundo commit no desafio de projeto.
